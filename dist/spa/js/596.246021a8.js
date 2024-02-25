@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunk_yeosu"]=globalThis["webpackChunk_yeosu"]||[]).push([[596],{1596:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});var t=a(2444),u=a(4044),o=a(5836),r=a(7936);const c=(0,t._M)({__name:"MyTicketDetail",setup(s){const e=(0,r.MJ)(),a=e.params.rsvNo;return(s,e)=>(0,u.WA)((0,o.KV)(a))}}),l=c,n=l}}]);
